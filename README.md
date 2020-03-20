@@ -2,4 +2,6 @@
 
 ## Getting Started
 
-Run `yarn start`
+run `yarn start`
+
+stop `control + c`
