@@ -1,10 +1,6 @@
-import "./index.css";
+const a = 1;
 
-let a = 1;
-a = 2;
-
-const b = 1;
+let b;
 
 b = 2;
-
-console.log(a);
+console.log(b);
