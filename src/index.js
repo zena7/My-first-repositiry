@@ -1,4 +1,4 @@
-const a = 1;
+const z = 1;
 
 let b;
 
