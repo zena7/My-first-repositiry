@@ -1,7 +1,7 @@
 import "./index.css";
-let officialNameJS = prompt("Какое «официальное» название JavaScript? ");
-if (officialNameJS == "ECMAScript") {
-  alert("Верно! ");
+let officialNameJS = prompt("how change you'r mood?");
+if (officialNameJS == "have sex") {
+  alert("Yay!");
 } else {
-  alert("Не знаете? ECMAScript!");
+  alert(": (");
 }
