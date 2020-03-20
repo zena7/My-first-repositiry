@@ -2,6 +2,8 @@
 
 ## Getting Started
 
-run `yarn start`
+- open terminal in vscode `control + ~`
 
-stop `control + c`
+- run `yarn start`
+
+- stop `control + c`
