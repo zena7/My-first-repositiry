@@ -29,7 +29,8 @@ import "./index.css";
 //     ? "Нет логина"
 //     : "";
 
-let age = prompt(`Напишите Ваш возраст! `);
+let rawAge = prompt(`Напишите Ваш возраст! `);
+let age = Number(rawAge);
 if (age >= 14 && age <= 90) {
   alert(`Добро пожаловать`);
 } else {
