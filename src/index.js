@@ -20,3 +20,13 @@ import "./index.css";
 //   if (i % 2 == 1) break;
 //   alert(i);
 // }
+
+// Метки
+
+outer: for (let i = 0; i < 3; i += 1) {
+  for (let j = 0; j < 3; j += 1) {
+    let input = prompt(`Введите координаты  ${i}, ${j}`);
+    if (!input) break outer;
+  }
+}
+alert(`Готово !`);
