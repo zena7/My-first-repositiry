@@ -62,4 +62,5 @@ switch (number) {
   case 2:
   case 3:
     alert("Вы ввели число 2, а может и 3");
+    break;
 }
